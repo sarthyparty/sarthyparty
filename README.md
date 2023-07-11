@@ -1,5 +1,13 @@
-### Hi there 👋
+### Welcome 👋👋
 
+## Things about me
+ - Majoring in Computer Science and Economics at UW Madison
+ - Interned at UHC and Splunk as Software Engineer
+ - I'm always working on a project, you check them out on my [personal website](sarthyparty.github.io)
+
+
+
+- 
 <!--
 **sarthyparty/sarthyparty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
