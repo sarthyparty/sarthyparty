@@ -1,4 +1,4 @@
-# Welcome 👋👋
+# Hello, there 👋👋
 
 ## Things about me
  - Majoring in Computer Science and Economics at UW Madison
