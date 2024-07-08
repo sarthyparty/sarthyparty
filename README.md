@@ -3,7 +3,6 @@
 ## Things about me
  - Majoring in Computer Science and Economics at UW Madison
  - Interned at UHC and Splunk as Software Engineer
- - I'm always working on a project, you check them out on my [personal website](sarthyparty.github.io)
 
 
 
