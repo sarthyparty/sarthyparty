@@ -2,7 +2,7 @@
 
 ## Things about me
  - Majoring in Computer Science and Economics at UW Madison
- - Interned at UHC and Splunk as Software Engineer
+ - Interned at NGINX, F5 Networks, Splunk, and Optum (UHG) as Software Engineer
 
 
 
