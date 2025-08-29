@@ -18,7 +18,7 @@
 
 ---
 
-✨ Always exploring how **systems, networking, and distributed computing** shape the future of cloud infrastructure.  
+✨ Love learning about **systems, networking, and distributed computing**.  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" align="right" />
 
