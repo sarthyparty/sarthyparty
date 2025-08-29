@@ -1,4 +1,4 @@
-# 👋 Hello, there  
+# 👋 Hello
 
 ## 🚀 About Me  
 🎓 Majoring in **Mathematics & Computer Science** at **UW–Madison**  
